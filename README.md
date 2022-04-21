@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.sodiuswillert.com/hubfs/Images/collaboration-software-development_1200x628px.png" align="center" style="width: 100%" />
+<img src="https://pronovix.com/sites/default/files/blogpost/image/blogpost_joker_images_1200x800-01.png" align="center" style="width: 100%" />
 </div>  
   
 
